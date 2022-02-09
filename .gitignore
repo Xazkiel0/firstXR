@@ -41,7 +41,10 @@ ExportedObj/
 *.pdb
 *.mdb
 *.opendb
+*.meta
 *.VC.db
+*.mp4
+*.apk
 
 # Unity3D generated meta files
 *.pidb.meta
